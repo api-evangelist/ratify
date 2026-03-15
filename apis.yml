@@ -1,0 +1,15 @@
+name: Ratify
+description: A framework to verify artifacts and enforce policies in Kubernetes and
+  other cloud-native environments, supporting supply chain security through signature
+  and attestation verification.
+url: https://ratify.dev/
+tags:
+- Security
+- Kubernetes
+- Supply Chain
+- Policy Enforcement
+- Artifact Verification
+created: '2025'
+modified: '2025'
+apis: []
+common: []
