@@ -1,16 +1,14 @@
 aid: ratify
 name: Ratify
-description: A framework to verify artifacts and enforce policies in Kubernetes and
-  other cloud-native environments, supporting supply chain security through signature
-  and attestation verification.
+description: A framework to verify artifacts and enforce policies in Kubernetes and other cloud-native environments, supporting supply chain security through signature and attestation verification.
 type: Index
 url: https://raw.githubusercontent.com/api-evangelist/ratify/refs/heads/main/apis.yml
 tags:
-- Security
-- Kubernetes
-- Supply Chain
-- Policy Enforcement
-- Artifact Verification
+  - Artifact Verification
+  - Kubernetes
+  - Policy Enforcement
+  - Security
+  - Supply Chain
 created: '2025-01-01'
 modified: '2026-03-16'
 specificationVersion: '0.19'
