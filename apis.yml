@@ -1,7 +1,15 @@
 aid: ratify
 name: Ratify
-description: A framework to verify artifacts and enforce policies in Kubernetes and other cloud-native environments, supporting supply chain security through signature and attestation verification.
+description: >-
+  Ratify is an open-source framework for verifying reference artifacts and
+  enforcing policies in Kubernetes and other cloud-native environments,
+  supporting supply chain security through signature and attestation
+  verification. Ratify is consumed via Kubernetes admission webhooks, a CLI,
+  and Go libraries; no public REST API or OpenAPI specification is published
+  upstream.
 type: Index
+position: Consuming
+access: 3rd-Party
 url: https://raw.githubusercontent.com/api-evangelist/ratify/refs/heads/main/apis.yml
 tags:
   - Artifact Verification
@@ -10,10 +18,16 @@ tags:
   - Security
   - Supply Chain
 created: '2025-01-01'
-modified: '2026-03-16'
+modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://ratify.dev
+  - type: Documentation
+    url: https://ratify.dev/docs/what-is-ratify
+  - type: SourceCode
+    url: https://github.com/ratify-project/ratify
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
