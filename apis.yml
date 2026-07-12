@@ -32,6 +32,8 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/ratify-domain-security.yml
   - type: Website
     url: https://ratify.dev
   - type: Documentation
@@ -42,6 +44,8 @@ common:
     url: https://github.com/ratify-project
   - type: PackageManager
     url: https://artifacthub.io/packages/helm/ratify/ratify
+  - url: https://ratify.dev/blog/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
