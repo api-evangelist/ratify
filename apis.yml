@@ -44,6 +44,9 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/ratify-project/ratify/blob/main/LICENSE
   - type: DomainSecurity
     url: security/ratify-domain-security.yml
   - type: Website
