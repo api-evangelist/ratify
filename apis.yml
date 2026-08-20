@@ -32,6 +32,16 @@ url: https://raw.githubusercontent.com/api-evangelist/ratify/refs/heads/main/api
 tags:
   - Artifact Verification
   - CNCF
+  - Cloud-Native
+  - Container Security
+  - Kubernetes
+  - Open-Source
+  - Policy Enforcement
+  - Security
+  - Supply Chain
+tags_raw:
+  - Artifact Verification
+  - CNCF
   - Cloud Native
   - Container Security
   - Kubernetes
