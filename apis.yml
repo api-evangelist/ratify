@@ -1,4 +1,16 @@
 aid: ratify
+deliveryModel:
+  model: self-hosted
+  license: Apache-2.0
+  open_source: true
+  commercial: false
+  callable_host: false
+  label: Self-hosted open source · you run it yourself
+  confidence: high
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
@@ -54,6 +66,16 @@ modified: '2026-05-02'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: IssueTracker
+    url: https://github.com/ratify-project/ratify/issues
+  - type: Releases
+    url: https://github.com/ratify-project/ratify/releases
+  - type: SecurityPolicy
+    url: https://github.com/notaryproject/ratify/blob/main/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/notaryproject/ratify/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/notaryproject/ratify/blob/main/CONTRIBUTING.md
   - type: License
     name: Apache-2.0
     url: https://github.com/ratify-project/ratify/blob/main/LICENSE
