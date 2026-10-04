@@ -47,7 +47,7 @@ tags:
   - Cloud-Native
   - Container Security
   - Kubernetes
-  - Open-Source
+  - Open Source
   - Policy Enforcement
   - Security
   - Supply Chain
@@ -61,6 +61,7 @@ tags_raw:
   - Policy Enforcement
   - Security
   - Supply Chain
+  - Open-Source
 created: '2025-01-01'
 modified: '2026-05-02'
 specificationVersion: '0.23'
